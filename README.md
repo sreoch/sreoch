@@ -1,8 +1,8 @@
 ### Hey, im Scott Reoch! 👋
 
-Having nearly finished at CodeClan, i'm looking to further develop and learn new skills by working on projects!  
+Having finished CodeClan, I am working to develop my skills and gain industry experience
 
-- 🔭 I’m currently working on small personal projects!
+- 🔭 I’m currently working on React.js and TypeScript!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/scott-reoch/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music production! 
